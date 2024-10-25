@@ -1,7 +1,7 @@
 # CONNECT-X-TELECOM-CUSTOMER-ANALYSIS  
 ##Project Objective:  
 This dashboard offers a deep insight into total revenue and customer behaviour.  
-##Dataset link - <a href=" https://github.com/SahasraKalwa/CONNECT-X-TELECOM-CUSTOMER-ANALYSIS/blob/main/ConnectX%2BTelecom%2Bdataset.xlsx">//Dataset link</a>  
+##Dataset link - <a href="https://github.com/SahasraKalwa/CONNECT-X-TELECOM-CUSTOMER-ANALYSIS/blob/main/ConnectX%2BTelecom%2Bdataset.xlsx">//Dataset link</a>  
 ##Questions  
 --What is the churn rate for the given dataset?  
 --How is the gender of the customers distributed in the given dataset?  
