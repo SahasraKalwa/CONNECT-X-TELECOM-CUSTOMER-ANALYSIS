@@ -13,7 +13,7 @@ This dashboard offers a deep insight into total revenue and customer behaviour.
 ##Dashboard - <a href="https://github.com/SahasraKalwa/CONNECT-X-TELECOM-CUSTOMER-ANALYSIS/blob/main/Screenshot%202024-09-26%20112328.png">//View Dashboard</a>  
 ##Insights  
 -About 26% customers churned.  
--Customers love themonthly recharge plan.  
+-Customers love the monthly recharge plan.  
 -As the tenure in months increases, the total charges also increases.  
 -The customers who have churned are older, with an average age of 50.  
 ##Recommendation  
